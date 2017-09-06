@@ -1,3 +1,5 @@
 test git setup
 editing on master
 another edit
+editing on switched
+edited on switched
